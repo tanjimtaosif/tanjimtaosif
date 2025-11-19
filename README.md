@@ -1,19 +1,19 @@
 <!-- Cover Photo Section -->
-<div align="center">
+<div>
   <!-- REPLACE THE URL BELOW WITH YOUR OWN BANNER IMAGE IF YOU HAVE ONE -->
   <img src="https://images.unsplash.com/photo-1607799275518-d58665d096c1?q=80&w=2670&auto=format&fit=crop" alt="Cover Photo" width="100%" height="auto" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
 
 <!-- Introduction Section -->
-<h1 align="center">Hi, I'm Md. Tanjim Mahtab Taosif</h1>
-<h3 align="center">I specialize in building clean, modern, and user-friendly web interfaces. I love turning ideas into functional digital experiences using HTML, CSS, JavaScript, and modern frontend tools.</h3>
+<h1>Hi, I'm Md. Tanjim Mahtab Taosif</h1>
+<h3>I specialize in building clean, modern, and user-friendly web interfaces. I love turning ideas into functional digital experiences using HTML, CSS, JavaScript, and modern frontend tools.</h3>
 
-<p align="center">
+<p>
   I love building interactive, user-friendly, and responsive web applications.
 </p>
 
 <!-- Social Links -->
-<div align="center">
+<div>
   <a href="https://twitter.com/tanjim_taosif" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -25,9 +25,11 @@
 <br/>
 
 <!-- Tech Stack Section -->
-<h3 align="center">🛠 Languages and Tools</h3>
-<div align="center">
-  <!-- Frontend -->
+<h2>🛠 Languages and Tools</h2>
+
+<!-- Frontend Section -->
+<h3>Frontend Development</h3>
+<div>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -46,8 +48,11 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  
-  <!-- Backend & DB -->
+</div>
+
+<!-- Backend Section -->
+<h3>Backend & Database</h3>
+<div>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
@@ -60,8 +65,11 @@
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
+</div>
 
-  <!-- Tools & Others -->
+<!-- Tools Section -->
+<h3>Tools & Platforms</h3>
+<div>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -76,8 +84,8 @@
 <br/>
 
 <!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Statistics</h3>
-<div align="center">
+<h3>📊 GitHub Statistics</h3>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=tanjimtaosif&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="tanjimtaosif stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimtaosif&theme=dracula&hide_border=true" alt="tanjimtaosif streak" height="180" />
 </div>

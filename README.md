@@ -1,9 +1,9 @@
 <!-- Cover Photo Section -->
-<div>
+<!-- <div>
   <!-- REPLACE THE URL BELOW WITH YOUR OWN BANNER IMAGE IF YOU HAVE ONE -->
-  <img src="https://images.unsplash.com/photo-1607799275518-d58665d096c1?q=80&w=2670&auto=format&fit=crop" alt="Cover Photo" width="100%" height="auto" style="border-radius: 10px; margin-bottom: 20px;">
+  <!--  <img src="https://images.unsplash.com/photo-1607799275518-d58665d096c1?q=80&w=2670&auto=format&fit=crop" alt="Cover Photo" width="100%" height="auto" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
-
+-->
 <!-- Introduction Section -->
 <h1>Hi, I'm Md. Tanjim Mahtab Taosif</h1>
 <h3>I specialize in building clean, modern, and user-friendly web interfaces. I love turning ideas into functional digital experiences using HTML, CSS, JavaScript, and modern frontend tools.</h3>

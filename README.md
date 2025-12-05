@@ -1,91 +1,117 @@
-<!-- Cover Photo Section -->
-<!-- <div>
-  <!-- REPLACE THE URL BELOW WITH YOUR OWN BANNER IMAGE IF YOU HAVE ONE -->
-  <!--  <img src="https://images.unsplash.com/photo-1607799275518-d58665d096c1?q=80&w=2670&auto=format&fit=crop" alt="Cover Photo" width="100%" height="auto" style="border-radius: 10px; margin-bottom: 20px;">
+<!-- Profile Header -->
+<div align="center">
+  
+  <h1>Hey, I'm <span style="color:#4F46E5">Md. Tanjim Mahtab Taosif</span></h1>
+  <h3>Full Stack Web Developer & MERN Stack Enthusiast</h3>
+
+  <p>
+    I craft clean, modern, and user-friendly web interfaces — turning ideas into 
+    fast, responsive, and production-ready full stack digital experiences.
+  </p>
+
+  <!-- Quick Tags -->
+  <p>
+    <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MERN-Stack-22C55E?style=for-the-badge" />
+  </p>
+
 </div>
--->
-<!-- Introduction Section -->
-<h1>Hi, I'm Md. Tanjim Mahtab Taosif</h1>
-<h3>I specialize in building clean, modern, and user-friendly web interfaces. I love turning ideas into functional digital experiences using HTML, CSS, JavaScript, and modern frontend tools.</h3>
+
+---
+
+## 🚀 What I Love Building
+
+- Interactive, responsive, and accessible web applications  
+- End-to-end features using the **MERN stack**  
+- Clean, reusable frontend code with **React**, **Next.js**, and **Tailwind CSS**  
+- Robust backend APIs powered by **Node.js**, **Express**, and **MongoDB**  
+
+---
+
+## 🧑‍💻 Tech I Work With
+
+### 🌐 Frontend
 
 <p>
-  I love building interactive, user-friendly, and responsive web applications.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 </p>
 
-<!-- Social Links -->
-<div>
+### 🧱 Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+</p>
+
+---
+
+## 📌 A Little About Me
+
+- 🔭 I enjoy building **real-world, production-ready full stack web apps**  
+- 🌱 Currently improving my skills in **performance optimization** and **scalable application architecture**  
+- 🤝 Open to collaborating on **interesting full stack & frontend projects**  
+- 💬 Ask me about **React, Next.js, Tailwind, JavaScript, or the MERN stack**  
+- ⚡ Fun fact: I love crafting UIs that feel as smooth as native apps
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+  <!-- Profile details card -->
+  <img 
+    alt="GitHub Profile Details"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjimtaosif&theme=dracula"
+  />
+
+  <!-- Stats card -->
+  <img 
+    alt="GitHub Stats"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjimtaosif&theme=dracula"
+  />
+
+  <!-- Top languages by repo -->
+  <img 
+    alt="Top Languages by Repo"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjimtaosif&theme=dracula"
+  />
+
+</div>
+
+---
+
+## 🌐 Where to Find Me
+
+<div align="center">
   <a href="https://x.com/tanjim_taosif" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/tanjimtaosif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
-<br/>
+---
 
-<!-- Tech Stack Section -->
-<h2>🛠 Languages and Tools</h2>
-
-<!-- Frontend Section -->
-<h3>Frontend Development</h3>
-<div>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</div>
-
-<!-- Backend Section -->
-<h3>Backend & Database</h3>
-<div>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-</div>
-
-<!-- Tools Section -->
-<h3>Tools & Platforms</h3>
-<div>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-</div>
-
-<br/>
-
-<!-- GitHub Stats Section -->
-<h3>📊 GitHub Statistics</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tanjimtaosif&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="tanjimtaosif stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimtaosif&theme=dracula&hide_border=true" alt="tanjimtaosif streak" height="180" />
-</div>
+<p align="center">
+  💡 <i>If you like something here, feel free to ⭐ a repo or reach out — I’m always up for discussing ideas and collaborations.</i>
+</p>
